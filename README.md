@@ -22,10 +22,13 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
  
-## Program
+## Program:
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
-## Output :
+## Output:
 
-## Result :
+<img width="712" height="336" alt="Screenshot 2026-08-30 201133" src="https://github.com/user-attachments/assets/15f2aff2-4355-47a9-8d36-6982daf635f3" />
 
+## Result:
+
+The M/M/1 queueing model was analyzed successfully. The average number of objects, waiting time, and system utilization were calculated, and the system was found to be stable since the arrival rate was less than the service rate.
